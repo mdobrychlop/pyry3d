@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/lua/exception
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/lua/exception/Makefile
+END
+example.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/lua/exception/example.h
+END
+example.i
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/lua/exception/example.i
+END
+runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/lua/exception/runme.lua
+END

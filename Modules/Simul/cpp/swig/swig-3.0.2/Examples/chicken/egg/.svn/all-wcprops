@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/chicken/egg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/chicken/egg/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/chicken/egg/README
+END
+multi_init.scm
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/chicken/egg/multi_init.scm
+END
+single.setup
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/chicken/egg/single.setup
+END
+test.scm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/chicken/egg/test.scm
+END
+mod1.i
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/chicken/egg/mod1.i
+END
+mod2.i
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/chicken/egg/mod2.i
+END
+single.i
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/chicken/egg/single.i
+END
+multi.setup
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/chicken/egg/multi.setup
+END

@@ -1,0 +1,186 @@
+10
+
+dir
+13070
+https://svn.genesilico.pl/lab/svn/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/python
+https://svn.genesilico.pl/lab/svn
+
+
+
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7c060695-f2db-0310-b7fc-991d4b6ee44e
+
+variables
+dir
+
+import_packages
+dir
+
+import
+dir
+
+index.html
+file
+
+
+
+
+2015-10-08T15:40:05.771534Z
+991e6e9b3588a6c9cbbbbbd253d5130f
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3183
+
+template
+dir
+
+smartptr
+dir
+
+functor
+dir
+
+std_map
+dir
+
+multimap
+dir
+
+simple
+dir
+
+exceptproxy
+dir
+
+swigrun
+dir
+
+reference
+dir
+
+performance
+dir
+
+class
+dir
+
+import_template
+dir
+
+constants
+dir
+
+std_vector
+dir
+
+contract
+dir
+
+docstrings
+dir
+
+pointer
+dir
+
+funcptr
+dir
+
+java
+dir
+
+check.list
+file
+
+
+
+
+2015-10-08T15:40:05.769020Z
+b6f045a5404e2202cdf7eac821281012
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+290
+
+extend
+dir
+
+operator
+dir
+
+libffi
+dir
+
+callback
+dir
+
+exception
+dir
+
+funcptr2
+dir
+
+enum
+dir
+
+varargs
+dir
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/map
+END
+technical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/map/technical.cpp
+END
+all_penalties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/map/all_penalties.cpp
+END
+send_first_complex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/map/send_first_complex.hpp
+END
+clashes_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/map/clashes_map.cpp
+END
+technical.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/map/technical.hpp
+END
+all_penalties.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/map/all_penalties.hpp
+END
+clashes_container.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/map/clashes_container.cpp
+END
+clashes_map.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/map/clashes_map.hpp
+END
+send_first_complex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/map/send_first_complex.cpp
+END
+clashes_container.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/map/clashes_container.hpp
+END

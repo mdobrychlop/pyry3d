@@ -1,0 +1,857 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java
+END
+director_primitives_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_primitives_runme.java
+END
+li_carrays_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/li_carrays_runme.java
+END
+director_exception_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_exception_runme.java
+END
+rename3_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/rename3_runme.java
+END
+template_methods_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_methods_runme.java
+END
+typemap_arrays_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/typemap_arrays_runme.java
+END
+minherit2_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/minherit2_runme.java
+END
+cpp_typedef_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/cpp_typedef_runme.java
+END
+director_thread_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_thread_runme.java
+END
+java_typemaps_proxy_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_typemaps_proxy_runme.java
+END
+director_nspace_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_nspace_runme.java
+END
+nested_class_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/nested_class_runme.java
+END
+director_smartptr_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_smartptr_runme.java
+END
+java_pgcpp_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_pgcpp_runme.java
+END
+director_basic_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_basic_runme.java
+END
+template_typedef_inherit_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_typedef_inherit_runme.java
+END
+li_std_except_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/li_std_except_runme.java
+END
+aggregate_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/aggregate_runme.java
+END
+cpp11_constexpr_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/cpp11_constexpr_runme.java
+END
+extend_default_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/extend_default_runme.java
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/Makefile.in
+END
+imports_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/imports_runme.java
+END
+dynamic_cast_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/dynamic_cast_runme.java
+END
+sizet_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/sizet_runme.java
+END
+director_abstract_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_abstract_runme.java
+END
+apply_strings_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/apply_strings_runme.java
+END
+using_directive_and_declaration_forward_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/using_directive_and_declaration_forward_runme.java
+END
+arrays_global_twodim_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/arrays_global_twodim_runme.java
+END
+curiously_recurring_template_pattern_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/curiously_recurring_template_pattern_runme.java
+END
+director_unroll_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_unroll_runme.java
+END
+member_pointer_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/member_pointer_runme.java
+END
+li_boost_shared_ptr_attribute_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/li_boost_shared_ptr_attribute_runme.java
+END
+inctest_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/inctest_runme.java
+END
+using_directive_and_declaration_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/using_directive_and_declaration_runme.java
+END
+cpp11_lambda_functions_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/cpp11_lambda_functions_runme.java
+END
+template_nested_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_nested_runme.java
+END
+long_long_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/long_long_runme.java
+END
+template_namespace_forward_declaration_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_namespace_forward_declaration_runme.java
+END
+ignore_parameter_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/ignore_parameter_runme.java
+END
+enum_macro_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/enum_macro_runme.java
+END
+template_partial_specialization_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_partial_specialization_runme.java
+END
+template_default_class_parms_typedef_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_default_class_parms_typedef_runme.java
+END
+operator_overload_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/operator_overload_runme.java
+END
+rename1_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/rename1_runme.java
+END
+java_director_assumeoverride_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_director_assumeoverride_runme.java
+END
+template_using_directive_and_declaration_forward_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_using_directive_and_declaration_forward_runme.java
+END
+overload_template_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/overload_template_runme.java
+END
+java_jnitypes_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_jnitypes_runme.java
+END
+director_ignore_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_ignore_runme.java
+END
+char_strings_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/char_strings_runme.java
+END
+template_classes_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_classes_runme.java
+END
+enum_forward_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/enum_forward_runme.java
+END
+java_lib_arrays_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_lib_arrays_runme.java
+END
+rename4_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/rename4_runme.java
+END
+director_binary_string_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_binary_string_runme.java
+END
+varargs_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/varargs_runme.java
+END
+li_boost_shared_ptr_bits_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/li_boost_shared_ptr_bits_runme.java
+END
+cpp11_result_of_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/cpp11_result_of_runme.java
+END
+using_pointers_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/using_pointers_runme.java
+END
+extern_declaration_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/extern_declaration_runme.java
+END
+template_typedef_typedef_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_typedef_typedef_runme.java
+END
+extend_special_variables_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/extend_special_variables_runme.java
+END
+li_boost_shared_ptr_template_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/li_boost_shared_ptr_template_runme.java
+END
+preproc_line_file_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/preproc_line_file_runme.java
+END
+template_template_parameters_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_template_parameters_runme.java
+END
+default_constructor_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/default_constructor_runme.java
+END
+friends_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/friends_runme.java
+END
+typemap_namespace_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/typemap_namespace_runme.java
+END
+primitive_ref_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/primitive_ref_runme.java
+END
+li_std_string_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/li_std_string_runme.java
+END
+memberin_extend_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/memberin_extend_runme.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/README
+END
+template_default_arg_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_default_arg_runme.java
+END
+nested_structs_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/nested_structs_runme.java
+END
+extend_constructor_destructor_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/extend_constructor_destructor_runme.java
+END
+apply_signed_char_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/apply_signed_char_runme.java
+END
+java_director_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_director_runme.java
+END
+overload_complicated_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/overload_complicated_runme.java
+END
+nspace_extend_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/nspace_extend_runme.java
+END
+ret_by_value_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/ret_by_value_runme.java
+END
+allprotected_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/allprotected_runme.java
+END
+enum_thorough_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/enum_thorough_runme.java
+END
+director_wombat_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_wombat_runme.java
+END
+li_typemaps_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/li_typemaps_runme.java
+END
+enum_thorough_typeunsafe_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/enum_thorough_typeunsafe_runme.java
+END
+java_throws_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_throws_runme.java
+END
+java_enums_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_enums_runme.java
+END
+special_variable_macros_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/special_variable_macros_runme.java
+END
+rename2_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/rename2_runme.java
+END
+li_std_auto_ptr_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/li_std_auto_ptr_runme.java
+END
+pointer_reference_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/pointer_reference_runme.java
+END
+li_std_vector_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/li_std_vector_runme.java
+END
+naturalvar_more_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/naturalvar_more_runme.java
+END
+rname_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/rname_runme.java
+END
+template_default_class_parms_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_default_class_parms_runme.java
+END
+naturalvar_onoff_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/naturalvar_onoff_runme.java
+END
+enum_thorough_proper_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/enum_thorough_proper_runme.java
+END
+director_classic_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_classic_runme.java
+END
+li_boost_shared_ptr_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/li_boost_shared_ptr_runme.java
+END
+cpp11_thread_local_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/cpp11_thread_local_runme.java
+END
+smart_pointer_const_overload_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/smart_pointer_const_overload_runme.java
+END
+director_classes_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_classes_runme.java
+END
+nested_workaround_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/nested_workaround_runme.java
+END
+director_enum_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_enum_runme.java
+END
+profiletest_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/profiletest_runme.java
+END
+li_cdata_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/li_cdata_runme.java
+END
+default_args_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/default_args_runme.java
+END
+director_string_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_string_runme.java
+END
+rename_pcre_enum_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/rename_pcre_enum_runme.java
+END
+template_partial_specialization_typedef_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_partial_specialization_typedef_runme.java
+END
+java_typemaps_typewrapper_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_typemaps_typewrapper_runme.java
+END
+java_director_exception_feature_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_director_exception_feature_runme.java
+END
+global_namespace_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/global_namespace_runme.java
+END
+rename_pcre_encoder_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/rename_pcre_encoder_runme.java
+END
+director_default_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_default_runme.java
+END
+char_binary_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/char_binary_runme.java
+END
+intermediary_classname_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/intermediary_classname_runme.java
+END
+director_frob_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_frob_runme.java
+END
+li_std_vector_enum_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/li_std_vector_enum_runme.java
+END
+director_protected_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/director_protected_runme.java
+END
+namespace_forward_declaration_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/namespace_forward_declaration_runme.java
+END
+virtual_poly_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/virtual_poly_runme.java
+END
+nested_extend_c_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/nested_extend_c_runme.java
+END
+typemap_out_optimal_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/typemap_out_optimal_runme.java
+END
+java_pragmas_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_pragmas_runme.java
+END
+enum_thorough_simple_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/enum_thorough_simple_runme.java
+END
+extend_typedef_class_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/extend_typedef_class_runme.java
+END
+java_prepost_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_prepost_runme.java
+END
+java_director_exception_feature_nspace_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_director_exception_feature_nspace_runme.java
+END
+template_nested_typemaps_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/template_nested_typemaps_runme.java
+END
+wallkw_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/wallkw_runme.java
+END
+multiple_inheritance_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/multiple_inheritance_runme.java
+END
+array_member_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/array_member_runme.java
+END
+li_boost_intrusive_ptr_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/li_boost_intrusive_ptr_runme.java
+END
+special_variables_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/special_variables_runme.java
+END
+nspace_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/nspace_runme.java
+END
+inherit_target_language_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/inherit_target_language_runme.java
+END
+unions_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/unions_runme.java
+END
+java_constants_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_constants_runme.java
+END
+java_lib_various_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_lib_various_runme.java
+END
+java_lib_arrays_dimensionless_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/java_lib_arrays_dimensionless_runme.java
+END
+derived_nested_runme.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/java/derived_nested_runme.java
+END

@@ -1,0 +1,135 @@
+10
+
+dir
+13070
+https://svn.genesilico.pl/lab/svn/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/javascript
+https://svn.genesilico.pl/lab/svn
+
+
+
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7c060695-f2db-0310-b7fc-991d4b6ee44e
+
+operator
+dir
+
+reference
+dir
+
+exception
+dir
+
+example.mk
+file
+
+
+
+
+2015-10-08T15:40:30.312007Z
+820a5e3b57a5c06d2cae43fe17160601
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+923
+
+enum
+dir
+
+class
+dir
+
+variables
+dir
+
+nspace
+dir
+
+template
+dir
+
+overload
+dir
+
+pointer
+dir
+
+functor
+dir
+
+check.list
+file
+
+
+
+
+2015-10-08T15:40:30.314267Z
+20433df8199f5a529f55671df462d3c6
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+108
+
+simple
+dir
+
+constant
+dir
+

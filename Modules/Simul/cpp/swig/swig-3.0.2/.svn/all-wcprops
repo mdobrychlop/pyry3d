@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2
+END
+LICENSE-GPL
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/LICENSE-GPL
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/configure.ac
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/TODO
+END
+ANNOUNCE
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/ANNOUNCE
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/INSTALL
+END
+swig.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/swig.spec.in
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CHANGES
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/COPYRIGHT
+END
+LICENSE-UNIVERSITIES
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/LICENSE-UNIVERSITIES
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/autogen.sh
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/aclocal.m4
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Makefile.in
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/LICENSE
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/.travis.yml
+END
+RELEASENOTES
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/RELEASENOTES
+END
+CHANGES.current
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CHANGES.current
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/README
+END
+preinst-swig.in
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/preinst-swig.in
+END

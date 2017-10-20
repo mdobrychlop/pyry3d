@@ -1,0 +1,7 @@
+#!/bin/bash
+cd cpp/swig/swig-3.0.2
+./configure --prefix=$1/swig/ --without-pcre
+make
+make install
+cd ../../../
+

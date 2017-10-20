@@ -1,0 +1,95 @@
+10
+
+dir
+13070
+https://svn.genesilico.pl/lab/svn/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/csharp
+https://svn.genesilico.pl/lab/svn
+
+
+
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7c060695-f2db-0310-b7fc-991d4b6ee44e
+
+arrays
+dir
+
+funcptr
+dir
+
+nested
+dir
+
+enum
+dir
+
+class
+dir
+
+extend
+dir
+
+check.list
+file
+
+
+
+
+2015-10-08T15:39:52.449139Z
+684da41477298ba2238ac735a7c622ae
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+113
+
+variables
+dir
+
+simple
+dir
+
+template
+dir
+
+callback
+dir
+
+reference
+dir
+

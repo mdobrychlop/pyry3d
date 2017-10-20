@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches
+END
+01_no_home.diff
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/01_no_home.diff
+END
+14_hardlink_doc.diff
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/14_hardlink_doc.diff
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/CREDITS
+END
+12_cachesize_permissions.diff
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/12_cachesize_permissions.diff
+END
+05_nfs_fix.diff
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/05_nfs_fix.diff
+END
+07_cachedirtag.diff
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/07_cachedirtag.diff
+END
+06_md.diff
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/06_md.diff
+END
+04_ignore_profile.diff
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/04_ignore_profile.diff
+END
+13_html_links.diff
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/13_html_links.diff
+END
+11_utimes.diff
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/11_utimes.diff
+END
+10_lru_cleanup.diff
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/10_lru_cleanup.diff
+END
+09_respect_ldflags.diff
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/09_respect_ldflags.diff
+END
+02_ccache-compressed.diff
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/02_ccache-compressed.diff
+END
+03_long_options.diff
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/03_long_options.diff
+END
+08_manpage_hyphens.diff
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/CCache/debian/patches/08_manpage_hyphens.diff
+END

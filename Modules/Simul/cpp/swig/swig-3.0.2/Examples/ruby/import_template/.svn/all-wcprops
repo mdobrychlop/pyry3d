@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/import_template
+END
+spam.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/import_template/spam.h
+END
+spam.i
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/import_template/spam.i
+END
+runme.rb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/import_template/runme.rb
+END
+foo.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/import_template/foo.h
+END
+bar.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/import_template/bar.h
+END
+foo.i
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/import_template/foo.i
+END
+bar.i
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/import_template/bar.i
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/import_template/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/import_template/README
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/import_template/base.h
+END
+base.i
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/import_template/base.i
+END

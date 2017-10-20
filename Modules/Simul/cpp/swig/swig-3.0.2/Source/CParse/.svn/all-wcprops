@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Source/CParse
+END
+cscanner.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Source/CParse/cscanner.c
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Source/CParse/parser.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Source/CParse/util.c
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Source/CParse/parser.h
+END
+templ.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Source/CParse/templ.c
+END
+cparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Source/CParse/cparse.h
+END
+parser.y
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Source/CParse/parser.y
+END

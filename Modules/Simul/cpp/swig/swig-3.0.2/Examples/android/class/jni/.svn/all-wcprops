@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/android/class/jni
+END
+example.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/android/class/jni/example.h
+END
+example.i
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/android/class/jni/example.i
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/android/class/jni/Android.mk
+END
+example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/android/class/jni/example.cpp
+END

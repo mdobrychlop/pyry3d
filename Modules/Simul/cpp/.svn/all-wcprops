@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp
+END
+variables.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/variables.hpp
+END
+pyry3d_cpp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/pyry3d_cpp.hpp
+END
+pyry3d_cpp.i
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/pyry3d_cpp.i
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/__init__.py
+END
+interfejs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/interfejs.txt
+END
+complex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/complex.cpp
+END
+extern.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/extern.hpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/README
+END
+complex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/complex.hpp
+END
+pyry3d_cpp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/pyry3d_cpp.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/Makefile
+END

@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -nr --exclude='*wrap.cxx' --exclude='*.hpp' --exclude='*.i' --exclude='deep*' --exclude='*.py~' --exclude='*.py*' --exclude='*.pyc' --exclude-dir='External_Applications*' "$1" *

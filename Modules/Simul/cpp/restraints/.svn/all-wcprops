@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/restraints
+END
+restraints.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/restraints/restraints.hpp
+END
+symmetry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/restraints/symmetry.cpp
+END
+restraints.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/restraints/restraints.cpp
+END
+symmetry.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/restraints/symmetry.hpp
+END

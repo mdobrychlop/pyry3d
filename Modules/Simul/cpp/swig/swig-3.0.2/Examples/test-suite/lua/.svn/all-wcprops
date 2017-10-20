@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua
+END
+overload_template_fast_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/overload_template_fast_runme.lua
+END
+cpp_nodefault_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/cpp_nodefault_runme.lua
+END
+overload_simple_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/overload_simple_runme.lua
+END
+abstract_access_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/abstract_access_runme.lua
+END
+char_strings_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/char_strings_runme.lua
+END
+extend_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/extend_runme.lua
+END
+li_std_pair_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/li_std_pair_runme.lua
+END
+cpp_static_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/cpp_static_runme.lua
+END
+grouping_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/grouping_runme.lua
+END
+extend_variable_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/extend_variable_runme.lua
+END
+nested_workaround_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/nested_workaround_runme.lua
+END
+smart_pointer_extend_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/smart_pointer_extend_runme.lua
+END
+enum_template_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/enum_template_runme.lua
+END
+li_std_vector_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/li_std_vector_runme.lua
+END
+iadd_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/iadd_runme.lua
+END
+voidtest_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/voidtest_runme.lua
+END
+newobject2_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/newobject2_runme.lua
+END
+lua_no_module_global_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/lua_no_module_global_runme.lua
+END
+cpp_enum_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/cpp_enum_runme.lua
+END
+smart_pointer_not_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/smart_pointer_not_runme.lua
+END
+overload_complicated_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/overload_complicated_runme.lua
+END
+arrays_global_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/arrays_global_runme.lua
+END
+extend_template_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/extend_template_runme.lua
+END
+template_static_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/template_static_runme.lua
+END
+cpp_basic_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/cpp_basic_runme.lua
+END
+funcptr_cpp_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/funcptr_cpp_runme.lua
+END
+multi_import_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/multi_import_runme.lua
+END
+refcount_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/refcount_runme.lua
+END
+exception_partial_info_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/exception_partial_info_runme.lua
+END
+enums_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/enums_runme.lua
+END
+exception_order_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/exception_order_runme.lua
+END
+friends_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/friends_runme.lua
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/Makefile.in
+END
+cpp_namespace_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/cpp_namespace_runme.lua
+END
+smart_pointer_simple_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/smart_pointer_simple_runme.lua
+END
+cpp_typedef_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/cpp_typedef_runme.lua
+END
+disown_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/disown_runme.lua
+END
+template_extend1_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/template_extend1_runme.lua
+END
+import.lua
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/import.lua
+END
+array_member_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/array_member_runme.lua
+END
+smart_pointer_templatemethods_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/smart_pointer_templatemethods_runme.lua
+END
+varargs_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/varargs_runme.lua
+END
+member_pointer_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/member_pointer_runme.lua
+END
+nspace_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/nspace_runme.lua
+END
+extend_constructor_destructor_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/extend_constructor_destructor_runme.lua
+END
+keyword_rename_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/keyword_rename_runme.lua
+END
+global_namespace_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/global_namespace_runme.lua
+END
+smart_pointer_rename_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/smart_pointer_rename_runme.lua
+END
+li_typemaps_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/li_typemaps_runme.lua
+END
+li_std_except_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/li_std_except_runme.lua
+END
+li_factory_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/li_factory_runme.lua
+END
+inherit_missing_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/inherit_missing_runme.lua
+END
+extend_typedef_class_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/extend_typedef_class_runme.lua
+END
+fvirtual_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/fvirtual_runme.lua
+END
+equality_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/equality_runme.lua
+END
+template_inherit_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/template_inherit_runme.lua
+END
+pointer_reference_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/pointer_reference_runme.lua
+END
+dynamic_cast_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/dynamic_cast_runme.lua
+END
+sizet_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/sizet_runme.lua
+END
+newobject1_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/newobject1_runme.lua
+END
+static_const_member_2_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/static_const_member_2_runme.lua
+END
+smart_pointer_inherit_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/smart_pointer_inherit_runme.lua
+END
+import_nomodule_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/import_nomodule_runme.lua
+END
+template_construct_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/template_construct_runme.lua
+END
+rename_simple_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/rename_simple_runme.lua
+END
+smart_pointer_overload_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/smart_pointer_overload_runme.lua
+END
+static_const_member_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/static_const_member_runme.lua
+END
+operator_overload_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/operator_overload_runme.lua
+END
+li_carrays_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/li_carrays_runme.lua
+END
+enum_scope_template_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/enum_scope_template_runme.lua
+END
+enum_rename_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/enum_rename_runme.lua
+END
+global_vars_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/global_vars_runme.lua
+END
+imports_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/imports_runme.lua
+END
+smart_pointer_multi_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/smart_pointer_multi_runme.lua
+END
+primitive_ref_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/primitive_ref_runme.lua
+END
+li_std_string_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/li_std_string_runme.lua
+END
+template_extend2_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/template_extend2_runme.lua
+END
+overload_template_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/overload_template_runme.lua
+END
+enum_plus_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/enum_plus_runme.lua
+END
+template_default_arg_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/template_default_arg_runme.lua
+END
+valuewrapper_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/valuewrapper_runme.lua
+END
+extend_placement_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/extend_placement_runme.lua
+END
+ret_by_value_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/ret_by_value_runme.lua
+END
+nspace_extend_runme.lua
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/lua/nspace_extend_runme.lua
+END

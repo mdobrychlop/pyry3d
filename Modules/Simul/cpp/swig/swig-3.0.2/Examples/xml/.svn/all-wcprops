@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml
+END
+example_inl.expected-xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_inl.expected-xml
+END
+example_title_add.i
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_title_add.i
+END
+example_p5.expected-xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_p5.expected-xml
+END
+example_apply.expected-xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_apply.expected-xml
+END
+example_const.expected-xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_const.expected-xml
+END
+example_xml.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_xml.h
+END
+example_title_add.expected-xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_title_add.expected-xml
+END
+example_xml.i
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_xml.i
+END
+example_xml.expected-xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_xml.expected-xml
+END
+example_gif.expected-xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_gif.expected-xml
+END
+error.i
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/error.i
+END
+example.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example.h
+END
+example.i
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example.i
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/Makefile.in
+END
+example_ro.i
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_ro.i
+END
+example_inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_inl.h
+END
+gnarly.i
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/gnarly.i
+END
+example_inl.i
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_inl.i
+END
+example_p5.i
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_p5.i
+END
+example_apply.i
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_apply.i
+END
+error.expected-xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/error.expected-xml
+END
+example_const.i
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_const.i
+END
+example.expected-xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example.expected-xml
+END
+example_ro.expected-xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/example_ro.expected-xml
+END
+gnarly.expected-xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/xml/gnarly.expected-xml
+END

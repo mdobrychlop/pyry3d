@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/free_function
+END
+runme.rb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/free_function/runme.rb
+END
+example.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/free_function/example.cxx
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/free_function/Makefile
+END
+example.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/free_function/example.dsp
+END
+example.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/free_function/example.h
+END
+example.i
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby/free_function/example.i
+END

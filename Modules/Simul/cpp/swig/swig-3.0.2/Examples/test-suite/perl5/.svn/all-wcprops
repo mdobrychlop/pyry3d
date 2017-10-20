@@ -1,0 +1,521 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/README
+END
+director_nested_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_nested_runme.pl
+END
+director_ignore_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_ignore_runme.pl
+END
+director_default_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_default_runme.pl
+END
+ret_by_value_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/ret_by_value_runme.pl
+END
+enum_thorough_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/enum_thorough_runme.pl
+END
+virtual_poly_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/virtual_poly_runme.pl
+END
+operator_overload_break_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/operator_overload_break_runme.pl
+END
+primitive_types_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/primitive_types_runme.pl
+END
+imports_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/imports_runme.pl
+END
+dynamic_cast_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/dynamic_cast_runme.pl
+END
+inherit_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/inherit_runme.pl
+END
+array_member_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/array_member_runme.pl
+END
+using1_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/using1_runme.pl
+END
+class_ignore_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/class_ignore_runme.pl
+END
+template_ref_type_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/template_ref_type_runme.pl
+END
+inctest_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/inctest_runme.pl
+END
+unions_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/unions_runme.pl
+END
+director_classic_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_classic_runme.pl
+END
+import_nomodule_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/import_nomodule_runme.pl
+END
+contract_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/contract_runme.pl
+END
+naturalvar_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/naturalvar_runme.pl
+END
+li_reference_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/li_reference_runme.pl
+END
+typename_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/typename_runme.pl
+END
+li_cdata_carrays_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/li_cdata_carrays_runme.pl
+END
+packageoption_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/packageoption_runme.pl
+END
+director_primitives_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_primitives_runme.pl
+END
+director_classes_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_classes_runme.pl
+END
+director_exception_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_exception_runme.pl
+END
+inherit_missing_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/inherit_missing_runme.pl
+END
+director_enum_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_enum_runme.pl
+END
+default_args_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/default_args_runme.pl
+END
+rename_scope_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/rename_scope_runme.pl
+END
+director_string_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_string_runme.pl
+END
+template_typedef_cplx2_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/template_typedef_cplx2_runme.pl
+END
+primitive_ref_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/primitive_ref_runme.pl
+END
+li_std_string_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/li_std_string_runme.pl
+END
+using2_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/using2_runme.pl
+END
+preproc_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/preproc_runme.pl
+END
+sneaky1_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/sneaky1_runme.pl
+END
+director_finalizer_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_finalizer_runme.pl
+END
+minherit_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/minherit_runme.pl
+END
+director_constructor_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_constructor_runme.pl
+END
+char_binary_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/char_binary_runme.pl
+END
+template_typedef_cplx_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/template_typedef_cplx_runme.pl
+END
+director_extend_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_extend_runme.pl
+END
+director_frob_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_frob_runme.pl
+END
+overload_simple_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/overload_simple_runme.pl
+END
+director_wombat_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_wombat_runme.pl
+END
+director_protected_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_protected_runme.pl
+END
+typedef_class_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/typedef_class_runme.pl
+END
+li_typemaps_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/li_typemaps_runme.pl
+END
+li_std_except_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/li_std_except_runme.pl
+END
+aggregate_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/aggregate_runme.pl
+END
+char_strings_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/char_strings_runme.pl
+END
+exception_order_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/exception_order_runme.pl
+END
+grouping_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/grouping_runme.pl
+END
+global_vars_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/global_vars_runme.pl
+END
+director_abstract_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_abstract_runme.pl
+END
+apply_strings_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/apply_strings_runme.pl
+END
+sizet_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/sizet_runme.pl
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/Makefile.in
+END
+director_detect_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_detect_runme.pl
+END
+disown_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/disown_runme.pl
+END
+director_alternating_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_alternating_runme.pl
+END
+multiple_inheritance_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/multiple_inheritance_runme.pl
+END
+template_typedef_cplx3_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/template_typedef_cplx3_runme.pl
+END
+varargs_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/varargs_runme.pl
+END
+director_unroll_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_unroll_runme.pl
+END
+member_pointer_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/member_pointer_runme.pl
+END
+return_const_value_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/return_const_value_runme.pl
+END
+ignore_parameter_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/ignore_parameter_runme.pl
+END
+operator_overload_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/operator_overload_runme.pl
+END
+li_carrays_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/li_carrays_runme.pl
+END
+default_constructor_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/default_constructor_runme.pl
+END
+typemap_namespace_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/typemap_namespace_runme.pl
+END
+wrapmacro_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/wrapmacro_runme.pl
+END
+enum_template_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/enum_template_runme.pl
+END
+profiletest_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/profiletest_runme.pl
+END
+voidtest_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/voidtest_runme.pl
+END
+overload_copy_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/overload_copy_runme.pl
+END
+template_default_arg_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/template_default_arg_runme.pl
+END
+reference_global_vars_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/reference_global_vars_runme.pl
+END
+apply_signed_char_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/apply_signed_char_runme.pl
+END
+run-perl-test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/run-perl-test.pl
+END
+director_basic_runme.pl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/test-suite/perl5/director_basic_runme.pl
+END

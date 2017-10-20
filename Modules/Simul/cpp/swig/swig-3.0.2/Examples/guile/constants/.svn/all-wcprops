@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/guile/constants
+END
+example.i
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/guile/constants/example.i
+END
+runme.scm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/guile/constants/runme.scm
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/guile/constants/Makefile
+END

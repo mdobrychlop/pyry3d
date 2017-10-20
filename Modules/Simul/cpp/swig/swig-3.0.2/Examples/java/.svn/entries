@@ -1,0 +1,141 @@
+10
+
+dir
+13070
+https://svn.genesilico.pl/lab/svn/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/java
+https://svn.genesilico.pl/lab/svn
+
+
+
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7c060695-f2db-0310-b7fc-991d4b6ee44e
+
+enum
+dir
+
+class
+dir
+
+variables
+dir
+
+index.html
+file
+
+
+
+
+2015-10-08T15:40:09.458801Z
+9aeb62e4bbb420a2c0b15cb04bee562b
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2557
+
+template
+dir
+
+constants
+dir
+
+typemap
+dir
+
+pointer
+dir
+
+funcptr
+dir
+
+nested
+dir
+
+native
+dir
+
+extend
+dir
+
+check.list
+file
+
+
+
+
+2015-10-08T15:40:09.455433Z
+c3a916d816fa8c8b59354788d2452215
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+148
+
+multimap
+dir
+
+simple
+dir
+
+callback
+dir
+
+reference
+dir
+

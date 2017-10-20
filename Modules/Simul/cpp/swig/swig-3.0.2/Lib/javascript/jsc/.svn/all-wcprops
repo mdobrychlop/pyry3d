@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc
+END
+javascriptfragments.swg
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/javascriptfragments.swg
+END
+arrays_javascript.i
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/arrays_javascript.i
+END
+std_map.i
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/std_map.i
+END
+javascriptstrings.swg
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/javascriptstrings.swg
+END
+javascriptprimtypes.swg
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/javascriptprimtypes.swg
+END
+exception.i
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/exception.i
+END
+javascripthelpers.swg
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/javascripthelpers.swg
+END
+javascripttypemaps.swg
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/javascripttypemaps.swg
+END
+javascriptinit.swg
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/javascriptinit.swg
+END
+std_common.i
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/std_common.i
+END
+std_except.i
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/std_except.i
+END
+stl.i
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/stl.i
+END
+typemaps.i
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/typemaps.i
+END
+javascriptrun.swg
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/javascriptrun.swg
+END
+std_pair.i
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/std_pair.i
+END
+javascriptcomplex.swg
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/javascriptcomplex.swg
+END
+complex.i
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/complex.i
+END
+javascriptcode.swg
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/javascriptcode.swg
+END
+ccomplex.i
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/ccomplex.i
+END
+cdata.i
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/cdata.i
+END
+std_vector.i
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/std_vector.i
+END
+std_deque.i
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/std_deque.i
+END
+javascript.swg
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/javascript.swg
+END
+javascriptkw.swg
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/javascriptkw.swg
+END
+std_string.i
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/std_string.i
+END
+std_complex.i
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/std_complex.i
+END
+javascriptruntime.swg
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/javascript/jsc/javascriptruntime.swg
+END

@@ -1,0 +1,27 @@
+how to compile and run
+
+	You need to have these installed on your computer to run optimized version:
+
+		-swig (version 2.0 or newer)
+		-python (version 2.5, 2.6 or 2.7)
+		-cmake (version 2.8 or newer)
+
+	Sometimes you will also have to install "python-dev" packages.
+
+	Compilation is simple (here explained linux style):
+		1. Enter Modules/Simul/cpp subdirectory in pyry3d directory
+		2. run `cmake .`
+		3. `make`
+		4. run pyry3d 
+
+	On all systems you have to use cmake to compile pyry's shared library.
+
+	Note that _pyry3d_cpp.so library is not compatible with python3.
+
+	If there are problems with cmake, make sure that it uses correct c++ compiler.
+	If there are more than one compiler you may have to specify which one
+	should be used by cmake (on Linux you have to set CXX variable to, for
+	example, g++-4.7).
+
+	Note that if you're running Pyry under Windows, you need to INSTALL (not only
+	download) SWIG.

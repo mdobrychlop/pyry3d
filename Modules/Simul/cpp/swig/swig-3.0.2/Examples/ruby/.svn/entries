@@ -1,0 +1,165 @@
+10
+
+dir
+13070
+https://svn.genesilico.pl/lab/svn/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/ruby
+https://svn.genesilico.pl/lab/svn
+
+
+
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7c060695-f2db-0310-b7fc-991d4b6ee44e
+
+free_function
+dir
+
+check.list
+file
+
+
+
+
+2015-10-08T15:39:56.051930Z
+ab17c4197f582b3ecad14f81ddae48b0
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+231
+
+multimap
+dir
+
+simple
+dir
+
+operator
+dir
+
+reference
+dir
+
+mark_function
+dir
+
+hashargs
+dir
+
+funcptr2
+dir
+
+enum
+dir
+
+import_template
+dir
+
+class
+dir
+
+variables
+dir
+
+overloading
+dir
+
+import
+dir
+
+index.html
+file
+
+
+
+
+2015-10-08T15:39:56.055324Z
+3c08d9b60bb89c4996416d7ab703c790
+2014-12-09T08:33:51.660768Z
+12975
+jczwojdrak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2521
+
+template
+dir
+
+constants
+dir
+
+std_vector
+dir
+
+value
+dir
+
+functor
+dir
+
+pointer
+dir
+
+java
+dir
+
+funcptr
+dir
+
+exception_class
+dir
+

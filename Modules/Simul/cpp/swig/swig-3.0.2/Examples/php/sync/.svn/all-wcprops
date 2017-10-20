@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/php/sync
+END
+example.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/php/sync/example.h
+END
+example.i
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/php/sync/example.i
+END
+example.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/php/sync/example.cxx
+END
+runme.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/php/sync/runme.php
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/php/sync/Makefile
+END

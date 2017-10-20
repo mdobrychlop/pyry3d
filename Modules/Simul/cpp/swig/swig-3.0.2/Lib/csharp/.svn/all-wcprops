@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp
+END
+std_string.i
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/std_string.i
+END
+director.swg
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/director.swg
+END
+boost_intrusive_ptr.i
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/boost_intrusive_ptr.i
+END
+enumsimple.swg
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/enumsimple.swg
+END
+std_map.i
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/std_map.i
+END
+csharp.swg
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/csharp.swg
+END
+swigtype_inout.i
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/swigtype_inout.i
+END
+csharpkw.swg
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/csharpkw.swg
+END
+enums.swg
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/enums.swg
+END
+boost_shared_ptr.i
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/boost_shared_ptr.i
+END
+arrays_csharp.i
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/arrays_csharp.i
+END
+std_except.i
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/std_except.i
+END
+std_common.i
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/std_common.i
+END
+stl.i
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/stl.i
+END
+typemaps.i
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/typemaps.i
+END
+wchar.i
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/wchar.i
+END
+std_pair.i
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/std_pair.i
+END
+std_shared_ptr.i
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/std_shared_ptr.i
+END
+std_auto_ptr.i
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/std_auto_ptr.i
+END
+std_wstring.i
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/std_wstring.i
+END
+csharphead.swg
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/csharphead.swg
+END
+std_vector.i
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/std_vector.i
+END
+std_deque.i
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/std_deque.i
+END
+enumtypesafe.swg
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Lib/csharp/enumtypesafe.swg
+END

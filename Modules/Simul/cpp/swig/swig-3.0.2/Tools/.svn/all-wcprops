@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Tools
+END
+vcfilter
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Tools/vcfilter
+END
+check-include-path.pike
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Tools/check-include-path.pike
+END
+mkrelease.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Tools/mkrelease.py
+END
+pcre-build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Tools/pcre-build.sh
+END
+pyname_patch.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Tools/pyname_patch.py
+END
+mkdist.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Tools/mkdist.py
+END
+setup.py.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Tools/setup.py.tmpl
+END
+brew-install
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Tools/brew-install
+END
+obs-update
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Tools/obs-update
+END
+swig.gdb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Tools/swig.gdb
+END
+capitalize
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Tools/capitalize
+END
+mkwindows.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Tools/mkwindows.sh
+END

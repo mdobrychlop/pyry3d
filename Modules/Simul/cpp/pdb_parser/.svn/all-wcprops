@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/pdb_parser
+END
+INFO
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/pdb_parser/INFO
+END
+pdb_string_parser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/pdb_parser/pdb_string_parser.hpp
+END
+pdb_input_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/pdb_parser/pdb_input_parser.cpp
+END
+pdb_output_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/pdb_parser/pdb_output_parser.cpp
+END
+pdb_input_parser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/pdb_parser/pdb_input_parser.hpp
+END
+pdb_output_parser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/pdb_parser/pdb_output_parser.hpp
+END
+pdb_string_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/pdb_parser/pdb_string_parser.cpp
+END

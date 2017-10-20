@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/python/import_packages/from_init2/py3/pkg2
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/python/import_packages/from_init2/py3/pkg2/__init__.py
+END
+bar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/python/import_packages/from_init2/py3/pkg2/bar.hpp
+END
+bar.i
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/python/import_packages/from_init2/py3/pkg2/bar.i
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/lab/svn/!svn/ver/12975/PyRy3D/pyry_current/integrated_tested/Modules/Simul/cpp/swig/swig-3.0.2/Examples/python/import_packages/from_init2/py3/pkg2/Makefile
+END

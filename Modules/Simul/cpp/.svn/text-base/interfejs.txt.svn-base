@@ -1,0 +1,114 @@
+SPIS FUNKCJI INTERFEJSU
+
+FUNKCJE WIDZIALNE Z PYTHONA
+
+add* - dodają jakiś wpis do struktur c++-owych. Używane podczas kopiowania z pythona
+
+add_to_save - używane przy opcji outsteps. dodaje kompleks do pamiętanych
+
+append_score - dodaje wynik do pamiętanych
+
+assign_new_taken_indexes - analogiczne do funkcji z pythona
+calculate_restraints_score- jw
+calculate_symmetry_score- jw
+
+create_component - dodaje komponent do pierwszego kompleksu, używane przy kopiowaniu
+	danych z pythona do c++
+
+calculate_outbox_mapfill - analogiczne do pythona
+calculate_simulation_score_for_complex
+calculate_score_for_one_component_complex
+
+deepcopy_complex
+deepcopy_complex_to_best_score_complex
+deepcopy_complex_to_best_score_niter_complex
+	- kopiują kompleks do odpowiednich zmiennych. Nie zmieniają puli
+
+exchange
+	- wymienia miejscami dwa kompleksy w tablicy kompleksów. Argumenty są
+		indeksami w tej tablicy
+
+fill_can_be_exchanged - przygotowuje dodatkową tablicę, której nie ma w pythonie
+
+free_cpp - czyści pamięć na zakończenie programu
+
+get_atoms_number - zwraca liczbę atomów
+
+get_best_complex_score
+
+get_complexes - zwraca kompleksy, w formie naszych struktur (z c++)
+
+get_coords - zwraca koordynaty wszystkich kompleksów
+
+get_niter_score
+get_reptemp
+get_restraints_size
+get_simul_params
+get_simulation_clashes
+get_simulation_density
+get_simulation_freespace
+get_simulation_outbox
+get_simulation_restraints
+get_simulation_score
+get_step
+get_temp
+get_transformation_frequencies  - zwracają dane z c++
+
+inc_step- zwiększa licznik kroków
+
+init_cpp - inicjalizuje strucktury danych w c++
+
+is_in_scores - sprawdza czy wynik danego kompleksu jest w tablicy zapamiętanych
+
+number_of_components - zwraca liczbę komponentów w symulacji
+
+number_of_to_save - zwraca liczbę kompleksów, które należy zapisać przy opcji outsteps
+
+parse_pdb - parsuje koordynaty z pliku pdb, do debugu
+
+perform_mutation - przeprowadza mutację na podanym kompleksie. Efekt uboczny - 
+	stworzenie nowego kompleksu po za pulą
+
+pool_size - zwraca wielkość puli
+
+pop - usuwa ostatni kompleks
+
+set_false_is_complex_outbox - ustawiają odpowiedniego bool'a na false
+set_false_is_complex_outmap - ustawiają odpowiedniego bool'a na false
+
+set_pool_size - ustawia pool size
+
+populate_pool - analogiczne do pythonowego
+roulette
+
+save_complexes_to_save - tworzy wynikowe pliki pdb dla opcji outsteps
+save_best_niter - zapisuje do pliku pdb przy opcji write_niter
+
+send_arrays - kopiuje niektóre tablice przy przesyłaniu tablic z pythona do c++
+
+send_atom_radii - wysyła tablicę ATOM_RADII do c++
+send_grid - wysyła grid'a 
+
+set_changed_component - do debugu
+
+set_clashes_nr - ustawia dane w c++
+set_complex_data - ustawia dane w c++
+set_components_data
+set_reptemp
+set_temp 			
+
+simul_size - zwraca maksymalną pulę (chyba)
+
+sort_by_simulation_score - sortuje tablicę kompleksów po wynikach
+
+tournament - analogiczne do pythonowego
+
+try_to_push_in_to_save - próbuje dodać kompleks do tablicy pamiętanych kompleksów
+	przy opcji outsteps 
+
+update_restraints_score - analogiczne do pythonowego
+
+wrap_ids - ustala id dla więzów. Więzy używają id do porównywania, czy reprezentują
+	te same fragmenty reszt
+
+write_to_file - zapisuje kompleks do pliku
